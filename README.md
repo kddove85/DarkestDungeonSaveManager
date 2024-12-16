@@ -15,4 +15,4 @@ easily backup and restore your save files.
 Typically, if you are playing on Steam, the directory should be something 
 like ```C:/Program Files (x86)/Steam/userdata/########/#######/remote```
 5. Using the UI, select the folder where you want to save your backups. 
-By default, this is set to ```BackupFolder``` in the project.
+The backup folder is located at ```BackupFolder``` in the project by default.
