@@ -5,7 +5,7 @@ This is a save manager for the game Darkest Dungeon. It allows you to
 easily backup and restore your save files.
 
 ## Requirements
-- Python 3.9 or higher
+- [Python](https://www.python.org/downloads/) 3.9 or higher
 
 ## Installation & Use
 1. Clone the repository
